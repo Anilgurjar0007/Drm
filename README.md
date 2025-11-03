@@ -51,7 +51,7 @@
 
 ## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop](https://github.com/Anilgurjar0007/Drm)
+- 🔗 [Anilgurjar0007](https://github.com/Anilgurjar0007/Drm)
 
 
 ---
