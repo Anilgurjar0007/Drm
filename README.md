@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨  DRM Bot ✨
 </h1>
 
 <p align="center">
@@ -25,8 +25,7 @@
 
 ## 🚀 Deployment Process
 
-🎬 **Watch Full Deployment Tutorial:**  
-[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO)
+
 
 ### Step-by-Step:
 1. **Fork** the Repository  
@@ -44,7 +43,7 @@
 
 ---
 
-## 🤖 Bot Usernames
+## 🤖  Usernames
 
 - [contact](https://t.me/G_2902)
 
@@ -52,9 +51,9 @@
 
 ## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
-- 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
+- 🔗 [nikhilsainiop](https://github.com/Anilgurjar0007/Drm)
+
 
 ---
 
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
+> 👨‍💻 Created with ❤️ by [@Anil Gurjar](http://t.me/G_2902)
